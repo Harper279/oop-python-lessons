@@ -69,4 +69,6 @@
 
 #name = bool(name)          # converting the str to a bool
 
-#print(name)                # output: True#
+#print(name)                # output: True
+
+print("hello")
